@@ -1,0 +1,25 @@
+# Unit,Components
+Src1Bio,Wa
+Src2Bio,CO2
+Bioreactor,CO
+Sink1Bio,O2
+Sink2Bio,N2
+,H2S
+,NH3
+,CH4
+,SO2
+,C
+,H
+,O
+,N
+,Norg
+,P
+,K
+,S
+,Rest
+,P2O5
+,K2O
+,CattleSlurry
+,PigSlurry
+,PoultrySlurry
+,SheepSlurry
